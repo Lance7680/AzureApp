@@ -1,1 +1,1 @@
-- this is Azure test app.
+- This is an azure test app
